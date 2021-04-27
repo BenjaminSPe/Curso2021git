@@ -9,3 +9,15 @@
 ## git status
 >muestra los archivos los cuales no se les han aplicado git add
 26/04/2021
+## git show
+>muestra el ultimo commit 
+## git log
+>muestra el historial de commits 
+## git diff <tag> <tag>
+>compara versiones de commits
+## git reset -- hard <tag>
+>este es un reset "duro": elimina todos los commits antes del tag que escogimos
+## git reset -- soft
+>elimina lo que esta en el stagin pero no borra los cambios que tenemos sin git add o gurdar 
+## git restore <archivo>
+> similar al git reset -- hard pero no borra lo que este en la memoria ram 
