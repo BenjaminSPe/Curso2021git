@@ -23,3 +23,5 @@
 > similar al git reset -- hard pero no borra lo que este en la memoria ram 
 ## git branch <nombre de la rama>
 >sirve para crear una rama
+## git config --global usea.name <name>
+>se tagea el nombre de usuario
