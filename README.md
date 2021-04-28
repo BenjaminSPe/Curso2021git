@@ -21,3 +21,5 @@
 >elimina lo que esta en el stagin pero no borra los cambios que tenemos sin git add o gurdar 
 ## git restore <archivo>
 > similar al git reset -- hard pero no borra lo que este en la memoria ram 
+## git branch <nombre de la rama>
+>sirve para crear una rama
