@@ -25,3 +25,4 @@
 >sirve para crear una rama
 ## git config --global user.name <name>
 >se tagea el nombre de usuario
+>aqui vamos a ver que pasa con el pull 
