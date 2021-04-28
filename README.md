@@ -25,3 +25,5 @@
 >sirve para crear una rama
 ## git config --global user.name <name>
 >se tagea el nombre de usuario
+## git remote -v
+>cambia los links del repositorio remoto que es origin 
