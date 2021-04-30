@@ -27,3 +27,7 @@
 >se tagea el nombre de usuario
 ## git remote -v
 >cambia los links del repositorio remoto que es origin 
+
+>aqui vamos a ver que pasa con el pull 
+## git remote -v 
+nos dice que repositorio en la nive estamos enviando actualizaciones 
